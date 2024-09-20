@@ -112,6 +112,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to [Pexels](https://www.pexels.com) for their incredible library of free images.
 - The Flutter community for their continuous support and contributions to the ecosystem.
-
-```
+ 
 
