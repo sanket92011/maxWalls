@@ -1,3 +1,7 @@
+Here's the updated README content with the images displayed outside the table for better
+presentation:
+
+```markdown
 # 📱 Wallpaper App
 
 A Flutter-based wallpaper application using the [Pexels API](https://www.pexels.com/api/) that
@@ -9,9 +13,7 @@ allows users to search for, download, and view details of high-quality images.
 - ⬇️ **Download**: Images can be downloaded to the user's device.
 - 👤 **Photographer Info**: View the photographer's name and ID associated with each image.
 - 🆔 **Image Details**: View additional details like the image ID.
-- 🚫 **No Direct Set**: Users cannot set wallpapers directly from the app, but can download them to
-  their device.
-
+ 
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -70,13 +72,25 @@ This app uses the following Flutter packages:
 
 ## 📸 Screenshots
 
-| Screen           | Screenshot                                        |
-|------------------|---------------------------------------------------|
-| Home Screen      | ![Home Screen](screenshots/home.png)              |
-| Filter Selection | ![Filter Selection](screenshots/filter.png)       |
-| Search           | ![Search Screen](screenshots/search.png)          |
-| Image Info       | ![Image Info](screenshots/image_info.png)         |
-| Download Image   | ![Download Image](screenshots/download_image.png) |
+### Home Screen
+
+![Home Screen](screenshots/home.png)
+
+### Filter Selection
+
+![Filter Selection](screenshots/filter.png)
+
+### Search Screen
+
+![Search Screen](screenshots/search.png)
+
+### Image Info
+
+![Image Info](screenshots/image_info.png)
+
+### Download Image
+
+![Download Image](screenshots/download_image.png)
 
 > **Note:** Replace the dummy image paths with the actual paths to the screenshots in your project.
 
@@ -98,3 +112,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to [Pexels](https://www.pexels.com) for their incredible library of free images.
 - The Flutter community for their continuous support and contributions to the ecosystem.
+
+```
+
+This version avoids using a table and places the screenshots under their respective section titles for better readability.
