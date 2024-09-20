@@ -1,1 +1,1 @@
-var ACCESS_KEY = "KEY_HERE";
+var ACCESS_KEY = "your-pexels-api-key";
