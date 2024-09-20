@@ -13,7 +13,7 @@ allows users to search for, download, and view details of high-quality images.
 - ⬇️ **Download**: Images can be downloaded to the user's device.
 - 👤 **Photographer Info**: View the photographer's name and ID associated with each image.
 - 🆔 **Image Details**: View additional details like the image ID.
- 
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -115,4 +115,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```
 
-This version avoids using a table and places the screenshots under their respective section titles for better readability.
