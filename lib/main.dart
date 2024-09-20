@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:max_walls/pages/onBoard.dart';
-
+import 'package:max_walls/pages/home_screen.dart';
+ 
 void main() {
   runApp(const MyApp());
 }
@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
 
         useMaterial3: true,
       ),
-      home: const Onboard(),
+      home: const HomeScreen(),
     );
   }
 }
