@@ -92,10 +92,7 @@ class _HomeScreenState extends State<HomeScreen>
           "https://api.pexels.com/v1/search?query=$selectedFilter&per_page=80&page=$pageNo";
       final response = await http.get(
         Uri.parse(url),
-        headers: {
-          'Authorization':
-              'RfDzllYoRnuODodKPIk0a95NIjaeJDdfhr5mrd2qWHik1pCLwVIJUX1T'
-        },
+        headers: {'Authorization': ACCESS_KEY},
       );
       if (response.statusCode == 200) {
         Map result = jsonDecode(response.body);
