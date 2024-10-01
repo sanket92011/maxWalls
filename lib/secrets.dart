@@ -1,1 +1,1 @@
-var ACCESS_KEY = "RfDzllYoRnuODodKPIk0a95NIjaeJDdfhr5mrd2qWHik1pCLwVIJUX1T";
+var ACCESS_KEY = "";
